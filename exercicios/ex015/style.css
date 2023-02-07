@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 231, 180);
+}
+h1 {
+    background-color: rgb(226, 175, 5);
+    color: brown;
+    font-size: 36px;
+}
+h2 {
+    color: brown;
+    font-size: 28px;
+}
+p {
+    font-size: 23px;
+}
